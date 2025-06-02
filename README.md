@@ -1,6 +1,6 @@
 # Banking System in C++
 
-This is a simple console-based banking system implemented in C++. It allows users to perform basic banking operations such as depositing and withdrawing money, creating Fixed Deposits (FDR), creating Deposit Pension Schemes (DPS), displaying account information, and exiting the system.
+This is a simple console-based banking system implemented in C++. It allows users to perform basic banking operations such as depositing and withdrawing money, creating Fixed Deposits (FDR), creating Deposit Pension Schemes (DPS), displaying account information, and exiting the system. The program also includes a navigation system using keyboard keys and color-coded options for a better user experience.
 
 ## Features
 - **Deposit**: Allows users to deposit money into their accounts.
@@ -9,6 +9,8 @@ This is a simple console-based banking system implemented in C++. It allows user
 - **Create DPS**: Users can create a Deposit Pension Scheme with a specified amount and duration (months).
 - **Display Account Info**: Displays the account holder's name, account number, and balance.
 - **Exit**: Exits the banking system.
+- **Navigation System**: Users can navigate the options using the `w`, `x`, and `s` keys for up, down, and select respectively.
+- **Color Coding**: The menu options are color-coded to highlight the current selection for better readability and ease of navigation.
 
 ## Prerequisites
 
@@ -22,4 +24,4 @@ To run this program, you'll need:
 1. **Clone or Download the repository**:
    - If you're using Git, clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <[repository_url](https://github.com/SayemXx/Banking_System_by_Sayem.git)>
